@@ -17,7 +17,7 @@
  
  
 .. figure:: _static/nggeos_basemap_tiles_rus.png
-   :name: nggeos_basemap_tiles
+   :name: nggeos_basemap_tiles_pic
    :align: center
    :width: 30cm
  
