@@ -26,4 +26,4 @@
 .. note:: 
 	Для подключения данных необходим персональный `API ключ <https://docs.nextgis.ru/docs_geoservices/source/reissue_api_key.html>`_ (по умолчанию apikey находится в строке запроса, размыто на изображении). 
    
-`Пример <https://demo.nextgis.ru/resource/5365>`_ подключения сервиса как `базовой подложки <https://docs.nextgis.ru/docs_ngcom/source/data_connect.html#ngcom-basemap-layer>`_ в NextGIS Web.
+`Пример <https://demo.nextgis.ru/resource/5365>`_ подключения сервиса как `подложки <https://docs.nextgis.ru/docs_ngweb/source/webmaps_admin.html#ngw-map-basemaps>`_ в NextGIS Web.
