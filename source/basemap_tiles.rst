@@ -26,4 +26,4 @@ Basemap services
 .. note:: 
 	To use the data you'll need a personal `API key <https://docs.nextgis.com/docs_geoservices/source/reissue_api_key.html>`_ (by default the API key can be found in your profile in the query string, blurry in the image). 
    
-`Example <https://demo.nextgis.com/resource/5226>`_ of adding a service as a `Basemap <https://docs.nextgis.com/docs_ngcom/source/data_connect.html#basemaps>`_ in NextGIS Web.
+`Example <https://demo.nextgis.com/resource/5226>`_ of adding a service as a `Basemap <https://docs.nextgis.com/docs_ngweb/source/webmaps_admin.html#ngw-map-basemaps>`_ in NextGIS Web.
