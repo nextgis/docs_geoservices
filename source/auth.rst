@@ -3,7 +3,7 @@
 .. _auth:
 
 Authorization
-============
+=============
 
 To log in to  `NextGIS GeoServices <https://geoservices.nextgis.com/>`_ use your `NextGIS ID <https://my.nextgis.com>`_ (:numref:`nggeos_auth`) account.
 If you don't have one, register on `my.nextgis.com <https://my.nextgis.com/signup/>`_.
