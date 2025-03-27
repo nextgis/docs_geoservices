@@ -17,7 +17,7 @@ Basemap services
  
  
 .. figure:: _static/nggeos_basemap_tiles.png
-   :name: nggeos_basemap_tiles
+   :name: nggeos_basemap_tiles_pic
    :align: center
    :width: 30cm
  
