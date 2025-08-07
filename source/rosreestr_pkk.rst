@@ -33,6 +33,6 @@
 	Для подключения данных необходим персональный `API ключ <https://docs.nextgis.ru/docs_geoservices/source/reissue_api_key.html>`_ (по умолчанию apikey находится в строке запроса, размыто на изображении).
    
 `Пример <https://demo.nextgis.ru/resource/3928>`_ подключения кадастровых данных
-как `слои TMS <https://docs.nextgis.ru/docs_ngweb/source/layers.html#tms>`_ в NextGIS Web.
+как `слои TMS <https://docs.nextgis.ru/docs_ngweb/source/connections.html#ngw-tms-in>`_ в NextGIS Web.
 
 Также данные можно отфильтровать по координатам и идентификатору, выполнив соответствующие запросы.
