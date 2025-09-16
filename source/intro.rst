@@ -1,5 +1,4 @@
-.. sectionauthor:: Дмитрий Барышников <dmitry.baryshnikov@nextgis.ru>
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.ru>
+
 
 .. _nggeos_intro:
 

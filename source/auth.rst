@@ -1,4 +1,3 @@
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
 
 .. _auth:
 
