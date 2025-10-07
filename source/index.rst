@@ -13,4 +13,6 @@ NextGIS GeoServices
    basemap_tiles
    rosreestr_pkk
    geos_for_dev
-   reissue_api_key
+
+
+.. todo:: reissue_api_key not working
